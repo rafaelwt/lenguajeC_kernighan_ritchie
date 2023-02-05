@@ -1,0 +1,3 @@
+# compilar el codigo
+
+gcc main.c -o main
